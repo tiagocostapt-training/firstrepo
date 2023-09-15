@@ -7,3 +7,6 @@ This is some text. that I like to share some ideas like:
 - idea 3
 
 That's all.
+
+
+Some very cool feature...
